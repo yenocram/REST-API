@@ -1,0 +1,10 @@
+[ {
+  "ID" : 1,
+  "Nombre" : "Costa Rica"
+}, {
+  "ID" : 2,
+  "Nombre" : "Panamá"
+}, {
+  "ID" : 3,
+  "Nombre" : "Nicaragua"
+} ]
